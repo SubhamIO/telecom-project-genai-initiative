@@ -77,7 +77,7 @@ We built an agentic AI pipeline using [LangGraph], consisting of:
 
 ---
 
-## 📂 Output Assets (Saved in `/mnt/data/`)
+## 📂 Output Assets (Saved in `./visualisations/`)
 
 - `feature_vs_score_plots/`: All feature score plots
 - `feature_vs_shap_scatter/`: All feature vs SHAP scatter plots
