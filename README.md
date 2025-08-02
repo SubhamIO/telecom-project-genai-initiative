@@ -119,6 +119,15 @@ START → supervisor → researcher → supervisor
                              → insights_generator → supervisor
                              → FINISH / END
 ```
+---
+### Langgraph Agent Architecture
+
+<p align="center">
+  <img src="https://github.com/SubhamIO/telecom-project-genai-initiative/blob/main/langgraph_agent_graph.png" width="800" alt="architecture">
+</p>
+
+
+---
 
 ---
 
