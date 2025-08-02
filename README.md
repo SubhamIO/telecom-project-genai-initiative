@@ -184,7 +184,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-[Your Name]
+Subham Sarkar (https://github.com/SubhamIO/)
 
 ---
 
@@ -201,7 +201,6 @@ HF_TOKEN=your_huggingface_token
 
 ## 📌 Future Enhancements
 
-- Add Streamlit UI
 - Include error handling agents
 - Integrate feedback loop for agent correction
 
