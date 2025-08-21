@@ -1,0 +1,13 @@
+loan_defaulters:
+  age: Age of the applicant in years
+  credit_score: Credit score of the applicant
+  defaulted: 1 if applicant defaulted on loan, 0 otherwise
+  employment_status: Employment status (e.g., Salaried, Self-employed, Unemployed)
+  gender: Gender of the applicant
+  id: Unique loan applicant ID
+  income: Annual income of the applicant (in INR/USD)
+  interest_rate: Annual interest rate applied on the loan (%)
+  loan_amount: Total loan amount requested
+  loan_purpose: Purpose of the loan (e.g., Home, Car, Education, Personal)
+  loan_term_months: Loan repayment period in months
+  name: Full name of the applicant
